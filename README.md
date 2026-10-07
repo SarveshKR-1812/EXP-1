@@ -6,7 +6,7 @@ b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
 S.No.	Components	Range	Quantity
-1	Resistor	1kΩ	3
+1	Resistor	20Ω 40Ω and 60Ω
 2	Voltmeter (DC)	0-30V	3
 3	Ammeter (DC)	(0-200)mA	3
 4	Bread Board		1
