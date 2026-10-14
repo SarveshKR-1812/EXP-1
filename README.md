@@ -56,16 +56,14 @@ b.  KCL:
 
 Calculation:
 
-a.   KVL:
-<img width="826" height="1280" alt="KVL theory" src="https://github.com/user-attachments/assets/5304adab-bc68-461c-bcee-bc92967d0e3f" />
+a.   KVL: <img width="826" height="1280" alt="KVL theory" src="https://github.com/user-attachments/assets/5304adab-bc68-461c-bcee-bc92967d0e3f" />
+
 
  
 
 
-b.  KCL:
-<img width="869" height="1280" alt="KCL theory 2" src="https://github.com/user-attachments/assets/c90e3091-1342-47bd-96d7-ad0bc7e07f02" />
-<img width="738" height="1280" alt="KCL theory 1" src="https://github.com/user-attachments/assets/6d726c04-933e-47a3-a943-12ecf0dd5277" />
-<img width="590" height="395" alt="Screenshot 2026-10-10 174010" src="https://github.com/user-attachments/assets/33e97fd1-450e-4720-9194-4c28beb15045" />
+b.  KCL:<img width="738" height="1280" alt="KCL theory 1" src="https://github.com/user-attachments/assets/a8fd639a-5036-477b-9197-a039e5be03ad" />
+<img width="869" height="1280" alt="KCL theory 2" src="https://github.com/user-attachments/assets/7fce2326-2284-4873-b6ad-b693300dc59e" />
 
 
 
